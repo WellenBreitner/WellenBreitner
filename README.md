@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WellenBreitner
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin and android 
 - 📫 How to reach me instagram : @wellenhan and email : wellenhan45@gmail.com
 
 <!---
