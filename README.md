@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WellenBreitner
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning kotlin and android 
+- 👀 I’m interested in cyber security/Game developer/ web developer
+- 🌱 I’m currently learning cyber security and unity 
 - 📫 How to reach me instagram : @wellenhan and email : wellenhan45@gmail.com
 
 <!---
