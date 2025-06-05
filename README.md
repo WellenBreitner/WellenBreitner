@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WellenBreitner
-- 👀 I’m interested in Cyber security/Game developer/Web developer
-- 🌱 I’m currently learning cyber security and unity 
+- 👀 I’m interested in Cyber security/ Web and Mobile developer
+- 🌱 I’m currently learning cyber security and Android 
 - 📫 How to reach me instagram : @wellenhan and email : wellenhan45@gmail.com
 
 <!---
